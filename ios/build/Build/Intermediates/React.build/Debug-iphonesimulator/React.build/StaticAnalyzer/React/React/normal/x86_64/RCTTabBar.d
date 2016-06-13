@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTView.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/baidu/Documents/AwesomeProject/node_modules/react-native/React/Views/UIView+React.h
